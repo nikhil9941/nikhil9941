@@ -18,19 +18,7 @@
 - **Tools & Platforms:** 🔧 Git | 🐧 Linux | 🐳 Docker  
 - **ML / Data Science:** 📊 NumPy | 🐼 Pandas | 🤖 Scikit-learn  
 
----
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=nikhil9941&show_icons=true&theme=radical)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil9941&layout=compact&theme=radical)  
-
----
-
-## 🔥 GitHub Streak  
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil9941&theme=radical)  
-
----
 
 ## 🌱 Currently Learning  
 - 📈 Advanced **Machine Learning**  
@@ -45,7 +33,6 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tarate-b97424257/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 ---
 
