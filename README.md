@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikhil Tarate  
 
-<!--
-**nikhil9941/nikhil9941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 A passionate **Problem Solver** and **Full-Stack Developer** who loves working with modern technologies and tackling challenging problems with **DSA** and real-world projects 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🐍 Proficient in **Python**, **Django DRF**, **React.js**, **Machine Learning**, and **Linux**  
+- ⚡ Strong background in **Data Structures & Algorithms (DSA)**  
+- 🌐 Experienced in building scalable **Web Applications**  
+- 🤝 Love exploring **Open-Source**, **Automation**, and **AI-based solutions**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** 🐍 Python | ⚡ JavaScript | 💻 C++  
+- **Frameworks:** 🎯 Django REST Framework | ⚛️ React.js  
+- **Tools & Platforms:** 🔧 Git | 🐧 Linux | 🐳 Docker  
+- **ML / Data Science:** 📊 NumPy | 🐼 Pandas | 🤖 Scikit-learn  
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=nikhil9941&show_icons=true&theme=radical)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil9941&layout=compact&theme=radical)  
+
+---
+
+## 🔥 GitHub Streak  
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil9941&theme=radical)  
+
+---
+
+## 🌱 Currently Learning  
+- 📈 Advanced **Machine Learning**  
+- 🏗️ **System Design** & **Scalable Architectures**  
+
+---
+
+## 💡 Motto  
+> "Every problem is an opportunity to learn and grow." 🌱  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tarate-b97424257/)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+
+![](https://komarev.com/ghpvc/?username=nikhil9941&label=Profile+Views&color=blue)
