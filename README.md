@@ -6,8 +6,7 @@
 
 ## 🚀 About Me  
 - 🐍 Proficient in **Python**, **Django DRF**, **React.js**, **Machine Learning**, and **Linux**  
-- ⚡ Strong background in **Data Structures & Algorithms (DSA)**  
-- 🌐 Experienced in building scalable **Web Applications**  
+- ⚡ Strong background in **Data Structures & Algorithms (DSA)**    
 - 🤝 Love exploring **Open-Source**, **Automation**, and **AI-based solutions**  
 
 ---
